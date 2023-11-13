@@ -1,5 +1,6 @@
-### Kia ora, I'm David Poole 🤙
-📍 Based in Tāmaki Makaurau, Aotearoa (Auckland, New Zealand)  
-🌱 Applied Software Development at Dev Academy Aotearoa  
+### Kia ora, I'm Dave 🤙
+📍 Based in Auckland, New Zealand
 👨‍💻 Background in Business Intelligence, Supply Chain Management and IT  
-🧗 I enjoy rock climbing, hiking, and camping.  
+🌱 Applied Software Development at Dev Academy Aotearoa  
+🧑‍💻 Let's work on something, I've got plenty of ideas
+🧗 or go for a coffee, beer, climb rocks, hike, mountain bike..?
