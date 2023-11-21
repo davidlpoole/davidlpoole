@@ -1,5 +1,5 @@
 ### Kia ora, I'm Dave 🤙  
-📍 Based in Auckland, New Zealand  
+📍 Full stack developer based in Auckland, New Zealand  
 🌱 Previous: BI Developer, Business Analyst, SQL DBA, IT Trainer  
 🧑‍💻 Let's work on a project...  
 🧗 or go for a coffee, beer, climb rocks, hike, mountain bike...
