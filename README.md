@@ -6,8 +6,8 @@
 
 [View my Portfolio, Resumé and Project Showcase](https://davidpoole.deno.dev)  
 
-#### GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=davidlpoole&theme=dark)](https://git.io/streak-stats)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlpoole&layout=compact&theme=dark)  
+<!-- <div> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlpoole&layout=compact&theme=dark" height="150px"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=davidlpoole&show_icons=true&theme=dark" height="150px"/> -->
+<!-- <img src="https://streak-stats.demolab.com?user=davidlpoole&theme=dark" height="150px"/> -->
+<!-- </div> -->
