@@ -7,7 +7,6 @@
 🌱 I'm currently working on:  
 [an app to scrape Seek for job info](https://seeker.deno.dev)  
 an app to track productivity for agricultural contractors  
-learning to deploy full stack apps with AWS
 
 🧗 When I'm not coding, I'm hiking, climbing, or mountain biking...  
 
