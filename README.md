@@ -1,5 +1,7 @@
 ### Kia ora, I'm Dave 🤙  
-📍 Web developer based in Auckland, New Zealand  
+
+📍 Software developer based in Auckland, New Zealand  
+
 🧑‍💻 Previous: BI Developer, Business Analyst, SQL DBA, IT Trainer  
 
 [View my Portfolio, Resumé and Project Showcase](https://davidpoole.deno.dev)  
