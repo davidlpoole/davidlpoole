@@ -1,14 +1,12 @@
 ### Kia ora, I'm Dave 🤙  
 
-📍 Software developer based in Auckland, New Zealand  
+📍 Auckland, New Zealand  
 
 🧑‍💻 Previous: BI Developer, Business Analyst, SQL DBA, IT Trainer  
-
+<!--
 [View my Portfolio, Resumé and Project Showcase](https://davidpoole.deno.dev)  
 
-🌱 I'm currently working on:  
-[an app to scrape Seek for job info](https://seeker.deno.dev)  
-an app to track productivity for agricultural contractors  
+ 🌱 I'm currently working on:  -->
 
 🧗 When I'm not coding, I'm hiking, climbing, or mountain biking...  
 
