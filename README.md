@@ -1,6 +1,6 @@
 ### Kia ora, I'm Dave 🤙  
 
-📍 New Zealand  
+📍 Somewhere in New Zealand  
 
 🧑‍💻 Previous: BI Developer, Business Analyst, SQL DBA, IT Trainer  
 <!--
