@@ -1,14 +1,16 @@
-### Kia ora, I'm Dave 🤙  
+### Kia ora, I'm Dave...
+
+🕸 A Web Development Bootcamp Facilitator [at Dev Academy](https://devacademy.co.nz/)  
 
 📍 Somewhere in New Zealand  
 
-🧑‍💻 Previous: BI Developer, Business Analyst, SQL DBA, IT Trainer  
+🧑‍💻 I've been a Business Intelligence Dev, Business Analyst, IT Technician & Trainer  
 <!--
 [View my Portfolio, Resumé and Project Showcase](https://davidpoole.deno.dev)  
 
  🌱 I'm currently working on:  -->
 
-🧗 When I'm not coding, I'm tramping, camping, climbing, bouldering...  
+🧗 When I'm not coding I'm probably tramping, camping, climbing, bouldering...  
 
 
 <!-- <div> -->
