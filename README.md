@@ -8,7 +8,7 @@
 
  🌱 I'm currently working on:  -->
 
-🧗 When I'm not coding, I'm hiking, climbing, or mountain biking...  
+🧗 When I'm not coding, I'm tramping, camping, climbing, bouldering...  
 
 
 <!-- <div> -->
